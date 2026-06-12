@@ -142,7 +142,7 @@ FRONTEND_URL=http://localhost:3000
 A documentação da API está disponível através do Swagger após iniciar o servidor.
 
 ```text
-http://localhost:5000/api-docs
+http://localhost:5000/docs
 ```
 
 ## Banco de Dados
